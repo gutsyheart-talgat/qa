@@ -1,0 +1,41 @@
+.block-3{
+    padding-top: 30px;
+}
+.thrid-row{
+    display: flex;
+    flex-direction: column;
+}
+.third{
+    display: flex;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.marg{
+    padding-right: 15px;
+}
+.input{
+    width: 100%;
+}
+.input-3{
+    width: 100%;
+}
+.Message{
+    height: 150px;
+}
+.send{
+    width: 100%;
+    background-color: blue;
+    color: #e4ded5;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.send:hover{
+    background-color: #e4ded5;
+    color:blue;
+}
